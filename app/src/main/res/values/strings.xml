@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Geo Quiz KT</string>
+    <string name="texto_pregunta">Camberra es la capital de Australia</string>
+    <string name="boton_verdadero">Verdadero</string>
+    <string name="boton_falso">Falso</string>
+    <string name="toast_correcto">Correcto</string>
+    <string name="toast_incorrecto">Incorrecto</string>
+</resources>
